@@ -1,0 +1,1489 @@
+{
+  "items": {
+    "GOLD_GIFT": {
+      "all": true
+    },
+    "GRIFFIN_UPGRADE_STONE": {
+      "all": true
+    },
+    "BASE_GRIFFIN_UPGRADE_STONE": {
+      "all": true
+    },
+    "BONE_BOOMERANG": {
+      "all": true
+    },
+    "PIGMAN_SWORD": {
+      "all": true
+    },
+    "MIDAS_SWORD": {
+      "all": true
+    },
+    "MIDAS_STAFF": {
+      "all": true
+    },
+    "GRIFFIN_UPGRADE_STONE_RARE": {
+      "all": true
+    },
+    "GRIFFIN_UPGRADE_STONE_UNCOMMON": {
+      "all": true
+    },
+    "GRIFFIN_UPGRADE_STONE_EPIC": {
+      "all": true
+    },
+    "GRIFFIN_UPGRADE_STONE_LEGENDARY": {
+      "all": true
+    },
+    "ATOMSPLIT_KATANA": {
+      "all": true
+    },
+    "ROCK_THE_FISH": {
+      "all": true
+    },
+    "REAPER_MASK": {
+      "all": true
+    },
+    "TANK_WITHER_HELMET": {
+      "all": true
+    },
+    "BOSS_SPIRIT_BOW": {
+      "all": true
+    },
+    "LAST_BREATH": {
+      "all": true
+    },
+    "STARRED_LAST_BREATH": {
+      "all": true
+    },
+    "FINAL_DESTINATION_CHESTPLATE": {
+      "all": true
+    },
+    "FINAL_DESTINATION_LEGGINGS": {
+      "all": true
+    },
+    "FINAL_DESTINATION_BOOTS": {
+      "all": true
+    },
+    "FINAL_DESTINATION_HELMET": {
+      "all": true
+    },
+    "BEDROCK": {
+      "all": true
+    },
+    "CANDY_RELIC": {
+      "all": true
+    },
+    "WILSON_ENGINEERING_PLANS": {
+      "all": true
+    },
+    "SHARK_SCALE_LEGGINGS": {
+      "all": true
+    },
+    "SHARK_SCALE_CHESTPLATE": {
+      "all": true
+    },
+    "SHARK_SCALE_BOOTS": {
+      "all": true
+    },
+    "SHARK_SCALE_HELMET": {
+      "all": true
+    },
+    "ARMOR_OF_MAGMA_BOOTS": {
+      "all": true
+    },
+    "ARMOR_OF_MAGMA_CHESTPLATE": {
+      "all": true
+    },
+    "ARMOR_OF_MAGMA_HELMET": {
+      "all": true
+    },
+    "ARMOR_OF_MAGMA_LEGGINGS": {
+      "all": true
+    },
+    "PET_SCATHA_RARE": {
+      "all": true
+    },
+    "PET_SCATHA_EPIC": {
+      "all": true
+    },
+    "PET_SCATHA_LEGENDARY": {
+      "all": true
+    },
+    "PET_PHOENIX_COMMON": {
+      "all": true
+    },
+    "PET_PHOENIX_UNCOMMON": {
+      "all": true
+    },
+    "PET_PHOENIX_RARE": {
+      "all": true
+    },
+    "PET_PHOENIX_EPIC": {
+      "all": true
+    },
+    "PET_PHOENIX_LEGENDARY": {
+      "all": true
+    },
+    "PET_PHOENIX_MYTHIC": {
+      "all": true
+    },
+    "PET_BAT_COMMON": {
+      "all": true
+    },
+    "PET_BAT_UNCOMMON": {
+      "all": true
+    },
+    "PET_BAT_RARE": {
+      "all": true
+    },
+    "PET_BAT_EPIC": {
+      "all": true
+    },
+    "PET_BAT_LEGENDARY": {
+      "all": true
+    },
+    "PET_BAT_MYTHIC": {
+      "all": true
+    },
+    "PET_JERRY_COMMON": {
+      "all": true
+    },
+    "PET_JERRY_UNCOMMON": {
+      "all": true
+    },
+    "PET_JERRY_RARE": {
+      "all": true
+    },
+    "PET_JERRY_EPIC": {
+      "all": true
+    },
+    "PET_JERRY_LEGENDARY": {
+      "all": true
+    },
+    "PET_JERRY_MYTHIC": {
+      "all": true
+    },
+    "PET_RAT_COMMON": {
+      "all": true
+    },
+    "PET_RAT_UNCOMMON": {
+      "all": true
+    },
+    "PET_RAT_RARE": {
+      "all": true
+    },
+    "PET_RAT_EPIC": {
+      "all": true
+    },
+    "PET_RAT_LEGENDARY": {
+      "all": true
+    },
+    "PET_RAT_MYTHIC": {
+      "all": true
+    },
+    "PET_BEE_COMMON": {
+      "all": true
+    },
+    "PET_BEE_UNCOMMON": {
+      "all": true
+    },
+    "PET_BEE_RARE": {
+      "all": true
+    },
+    "PET_BEE_EPIC": {
+      "all": true
+    },
+    "PET_BEE_LEGENDARY": {
+      "all": true
+    },
+    "PET_BEE_MYTHIC": {
+      "all": true
+    },
+    "PET_CHICKEN_COMMON": {
+      "all": true
+    },
+    "PET_CHICKEN_UNCOMMON": {
+      "all": true
+    },
+    "PET_CHICKEN_RARE": {
+      "all": true
+    },
+    "PET_CHICKEN_EPIC": {
+      "all": true
+    },
+    "PET_CHICKEN_LEGENDARY": {
+      "all": true
+    },
+    "PET_CHICKEN_MYTHIC": {
+      "all": true
+    },
+    "PET_HOUND_COMMON": {
+      "all": true
+    },
+    "PET_HOUND_UNCOMMON": {
+      "all": true
+    },
+    "PET_HOUND_RARE": {
+      "all": true
+    },
+    "PET_HOUND_EPIC": {
+      "all": true
+    },
+    "PET_HOUND_LEGENDARY": {
+      "all": true
+    },
+    "PET_HOUND_MYTHIC": {
+      "all": true
+    },
+    "PET_GHOUL_COMMON": {
+      "all": true
+    },
+    "PET_GHOUL_UNCOMMON": {
+      "all": true
+    },
+    "PET_GHOUL_RARE": {
+      "all": true
+    },
+    "PET_GHOUL_EPIC": {
+      "all": true
+    },
+    "PET_GHOUL_LEGENDARY": {
+      "all": true
+    },
+    "PET_GHOUL_MYTHIC": {
+      "all": true
+    },
+    "PET_GIRAFFE_COMMON": {
+      "all": true
+    },
+    "PET_GIRAFFE_UNCOMMON": {
+      "all": true
+    },
+    "PET_GIRAFFE_RARE": {
+      "all": true
+    },
+    "PET_GIRAFFE_EPIC": {
+      "all": true
+    },
+    "PET_GIRAFFE_LEGENDARY": {
+      "all": true
+    },
+    "PET_GIRAFFE_MYTHIC": {
+      "all": true
+    },
+    "PET_GRIFFIN_COMMON": {
+      "all": true
+    },
+    "PET_GRIFFIN_UNCOMMON": {
+      "all": true
+    },
+    "PET_GRIFFIN_RARE": {
+      "all": true
+    },
+    "PET_GRIFFIN_EPIC": {
+      "all": true
+    },
+    "PET_GRIFFIN_LEGENDARY": {
+      "all": true
+    },
+    "PET_GRIFFIN_MYTHIC": {
+      "all": true
+    },
+    "PET_HORSE_COMMON": {
+      "all": true
+    },
+    "PET_HORSE_UNCOMMON": {
+      "all": true
+    },
+    "PET_HORSE_RARE": {
+      "all": true
+    },
+    "PET_HORSE_EPIC": {
+      "all": true
+    },
+    "PET_HORSE_LEGENDARY": {
+      "all": true
+    },
+    "PET_HORSE_MYTHIC": {
+      "all": true
+    },
+    "PET_JELLYFISH_COMMON": {
+      "all": true
+    },
+    "PET_JELLYFISH_UNCOMMON": {
+      "all": true
+    },
+    "PET_JELLYFISH_RARE": {
+      "all": true
+    },
+    "PET_JELLYFISH_EPIC": {
+      "all": true
+    },
+    "PET_LEJJYFISH_LEGENDARY": {
+      "all": true
+    },
+    "PET_JELLYFISH_MYTHIC": {
+      "all": true
+    },
+    "PET_MEGALODON_COMMON": {
+      "all": true
+    },
+    "PET_MEGALODON_UNCOMMON": {
+      "all": true
+    },
+    "PET_MEGALODON_RARE": {
+      "all": true
+    },
+    "PET_MEGALODON_EPIC": {
+      "all": true
+    },
+    "PET_MEGALODON_LEGENDARY": {
+      "all": true
+    },
+    "PET_MEGALODON_MYTHIC": {
+      "all": true
+    },
+    "PET_PARROT_COMMON": {
+      "all": true
+    },
+    "PET_PARROT_UNCOMMON": {
+      "all": true
+    },
+    "PET_PARROT_RARE": {
+      "all": true
+    },
+    "PET_PARROT_EPIC": {
+      "all": true
+    },
+    "PET_PARROT_LEGENDARY": {
+      "all": true
+    },
+    "PET_PARROT_MYTHIC": {
+      "all": true
+    },
+    "PET_PIG_COMMON": {
+      "all": true
+    },
+    "PET_PIG_UNCOMMON": {
+      "all": true
+    },
+    "PET_PIG_RARE": {
+      "all": true
+    },
+    "PET_PIG_EPIC": {
+      "all": true
+    },
+    "PET_PIG_LEGENDARY": {
+      "all": true
+    },
+    "PET_PIG_MYTHIC": {
+      "all": true
+    },
+    "PET_PIGMAN_COMMON": {
+      "all": true
+    },
+    "PET_PIGMAN_UNCOMMON": {
+      "all": true
+    },
+    "PET_PIGMAN_RARE": {
+      "all": true
+    },
+    "PET_PIGMAN_EPIC": {
+      "all": true
+    },
+    "PET_PIGMAN_LEGENDARY": {
+      "all": true
+    },
+    "PET_PIGMAN_MYTHIC": {
+      "all": true
+    },
+    "PET_ROCK_COMMON": {
+      "all": true
+    },
+    "PET_ROCK_UNCOMMON": {
+      "all": true
+    },
+    "PET_ROCK_RARE": {
+      "all": true
+    },
+    "PET_ROCK_EPIC": {
+      "all": true
+    },
+    "PET_ROCK_LEGENDARY": {
+      "all": true
+    },
+    "PET_ROCK_MYTHIC": {
+      "all": true
+    },
+    "PET_SKELETON_COMMON": {
+      "all": true
+    },
+    "PET_SKELETON_UNCOMMON": {
+      "all": true
+    },
+    "PET_SKELETON_RARE": {
+      "all": true
+    },
+    "PET_SKELETON_EPIC": {
+      "all": true
+    },
+    "PET_SKELETON_LEGENDARY": {
+      "all": true
+    },
+    "PET_SKELETON_MYTHIC": {
+      "all": true
+    },
+    "PET_SKELETON_HORSE_COMMON": {
+      "all": true
+    },
+    "PET_SKELETON_HORSE_UNCOMMON": {
+      "all": true
+    },
+    "PET_SKELETON_HORSE_RARE": {
+      "all": true
+    },
+    "PET_SKELETON_HORSE_EPIC": {
+      "all": true
+    },
+    "PET_SKELETON_HORSE_LEGENDARY": {
+      "all": true
+    },
+    "PET_SKELETON_HORSE_MYTHIC": {
+      "all": true
+    },
+    "PET_SNAIL_COMMON": {
+      "all": true
+    },
+    "PET_SNAIL_UNCOMMON": {
+      "all": true
+    },
+    "PET_SNAIL_RARE": {
+      "all": true
+    },
+    "PET_SNAIL_EPIC": {
+      "all": true
+    },
+    "PET_SNAIL_LEGENDARY": {
+      "all": true
+    },
+    "PET_SNAIL_MYTHIC": {
+      "all": true
+    },
+    "PET_SNOWMAN_COMMON": {
+      "all": true
+    },
+    "PET_SNOWMAN_UNCOMMON": {
+      "all": true
+    },
+    "PET_SNOWMAN_RARE": {
+      "all": true
+    },
+    "PET_SNOWMAN_EPIC": {
+      "all": true
+    },
+    "PET_SNOWMAN_LEGENDARY": {
+      "all": true
+    },
+    "PET_SNOWMAN_MYTHIC": {
+      "all": true
+    },
+    "PET_SPIDER_COMMON": {
+      "all": true
+    },
+    "PET_SPIDER_UNCOMMON": {
+      "all": true
+    },
+    "PET_SPIDER_RARE": {
+      "all": true
+    },
+    "PET_SPIDER_EPIC": {
+      "all": true
+    },
+    "PET_SPIDER_LEGENDARY": {
+      "all": true
+    },
+    "PET_SPIDER_MYTHIC": {
+      "all": true
+    },
+    "PET_TARANTULA_COMMON": {
+      "all": true
+    },
+    "PET_TARANTULA_UNCOMMON": {
+      "all": true
+    },
+    "PET_TARANTULA_RARE": {
+      "all": true
+    },
+    "PET_TARANTULA_EPIC": {
+      "all": true
+    },
+    "PET_TARANTULA_LEGENDARY": {
+      "all": true
+    },
+    "PET_TARANTULA_MYTHIC": {
+      "all": true
+    },
+    "PET_ZOMBIE_COMMON": {
+      "all": true
+    },
+    "PET_ZOMBIE_UNCOMMON": {
+      "all": true
+    },
+    "PET_ZOMBIE_RARE": {
+      "all": true
+    },
+    "PET_ZOMBIE_EPIC": {
+      "all": true
+    },
+    "PET_ZOMBIE_LEGENDARY": {
+      "all": true
+    },
+    "PET_ZOMBIE_MYTHIC": {
+      "all": true
+    },
+    "OPEN_SHOP": {
+      "all": true
+    },
+    "MINION_CHAIR": {
+      "all": true
+    },
+    "SKYBLOCK_CHAIR": {
+      "all": true
+    },
+    "FANCY_FLOWER_POT": {
+      "all": true
+    },
+    "SKYBLOCK_BENCH": {
+      "all": true
+    },
+    "SKYBLOCK_TABLE": {
+      "all": true
+    },
+    "ARMOR_SHOWCASE": {
+      "all": true
+    },
+    "SCARECROW": {
+      "all": true
+    },
+    "DESK": {
+      "all": true
+    },
+    "BOOKCASE": {
+      "all": true
+    },
+    "SMALL_SHELVES": {
+      "all": true
+    },
+    "WEAPON_RACK": {
+      "all": true
+    },
+    "BEST_WEAPON_RACK": {
+      "all": true
+    },
+    "CAMPFIRE": {
+      "all": true
+    },
+    "TIKI_TORCH": {
+      "all": true
+    },
+    "FIREPLACE": {
+      "all": true
+    },
+    "FURNACE_PLUS": {
+      "all": true
+    },
+    "CHEST_SHELVES": {
+      "all": true
+    },
+    "HAY_BED": {
+      "all": true
+    },
+    "LARGE_BED": {
+      "all": true
+    },
+    "WATER_TROUGH": {
+      "all": true
+    },
+    "FOOD_TROUGH": {
+      "all": true
+    },
+    "MEDIUM_SHELVES": {
+      "all": true
+    },
+    "CRAFTING_PLUS": {
+      "all": true
+    },
+    "WOOD_CHEST": {
+      "all": true
+    },
+    "DIAMOND_CHEST": {
+      "all": true
+    },
+    "EMERALD_CHEST": {
+      "all": true
+    },
+    "IRON_CHEST": {
+      "all": true
+    },
+    "GOLD_CHEST": {
+      "all": true
+    },
+    "LAPIS_CHEST": {
+      "all": true
+    },
+    "REDSTONE_CHEST": {
+      "all": true
+    },
+    "ENDER_PLUS": {
+      "all": true
+    },
+    "ENDSTONE_CHEST": {
+      "all": true
+    },
+    "BREWING_PLUS": {
+      "all": true
+    },
+    "ENCHANTING_PLUS": {
+      "all": true
+    },
+    "BLACKSMITH_PLUS": {
+      "all": true
+    },
+    "SKULL_CHEST": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_1": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_2": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_3": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_4": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_5": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_6": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_7": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_8": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_9": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_10": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_11": {
+      "all": true
+    },
+    "PERFECT_LEGGINGS_12": {
+      "all": true
+    },
+    "PERFECT_HELMET_1": {
+      "all": true
+    },
+    "PERFECT_HELMET_2": {
+      "all": true
+    },
+    "PERFECT_HELMET_3": {
+      "all": true
+    },
+    "PERFECT_HELMET_4": {
+      "all": true
+    },
+    "PERFECT_HELMET_5": {
+      "all": true
+    },
+    "PERFECT_HELMET_6": {
+      "all": true
+    },
+    "PERFECT_HELMET_7": {
+      "all": true
+    },
+    "PERFECT_HELMET_8": {
+      "all": true
+    },
+    "PERFECT_HELMET_9": {
+      "all": true
+    },
+    "PERFECT_HELMET_10": {
+      "all": true
+    },
+    "PERFECT_HELMET_11": {
+      "all": true
+    },
+    "PERFECT_HELMET_12": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_1": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_2": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_3": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_4": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_5": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_6": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_7": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_8": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_9": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_10": {
+      "all": true
+    },
+    "PERFECT_CHESTPLATE_11": {
+      "all": true
+    },
+    "PERFECT_BOOTS_1": {
+      "all": true
+    },
+    "PERFECT_BOOTS_2": {
+      "all": true
+    },
+    "PERFECT_BOOTS_3": {
+      "all": true
+    },
+    "PERFECT_BOOTS_4": {
+      "all": true
+    },
+    "PERFECT_BOOTS_5": {
+      "all": true
+    },
+    "PERFECT_BOOTS_6": {
+      "all": true
+    },
+    "PERFECT_BOOTS_7": {
+      "all": true
+    },
+    "PERFECT_BOOTS_8": {
+      "all": true
+    },
+    "PERFECT_BOOTS_9": {
+      "all": true
+    },
+    "PERFECT_BOOTS_10": {
+      "all": true
+    },
+    "PERFECT_BOOTS_11": {
+      "all": true
+    },
+    "PET_SKIN_MEGALODON_BABY": {
+      "all": true
+    },
+    "WEREWOLF_LEGGINGS": {
+      "all": true
+    },
+    "WEREWOLF_BOOTS": {
+      "all": true
+    },
+    "WEREWOLF_HELMET": {
+      "all": true
+    },
+    "WEREWOLF_CHESTPLATE": {
+      "all": true
+    },
+    "REAPER_LEGGINGS": {
+      "all": true
+    },
+    "REAPER_CHESTPLATE": {
+      "all": true
+    },
+    "REAPER_BOOTS": {
+      "all": true
+    },
+    "PET_SKIN_BLACK_CAT_IVORY": {
+      "all": true
+    },
+    "PET_SKIN_REINDEER_AURORA": {
+      "all": true
+    },
+    "NECROMANCER_SWORD": {
+      "all": true
+    },
+    "PET_SKIN_SCATHA_ALBINO": {
+      "all": true
+    },
+    "PET_SKIN_SCATHA_GOLDEN": {
+      "all": true
+    },
+    "PET_SKIN_SCATHA_DARK": {
+      "all": true
+    },
+    "PET_SKIN_RABBIT_LUNAR": {
+      "all": true
+    },
+    "PET_SKIN_GRIFFIN_REINDRAKE": {
+      "all": true
+    },
+    "PET_SKIN_CHICKEN_TURKEY": {
+      "all": true
+    },
+    "PET_SKIN_TIGER_NEON": {
+      "all": true
+    },
+    "PET_SKIN_SNOWMAN_ICE_GOLEM": {
+      "all": true
+    },
+    "PET_SKIN_MOOSHROOM_COW_MOOCELIUM": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_CHROMA": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_WHITE_WOOLY": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_BLACK_WOOLY": {
+      "all": true
+    },
+    "PET_SKIN_GOLDEN_DRAGON_ANUBIS": {
+      "all": true
+    },
+    "PET_SKIN_JELLYFISH_LUMINESCENT": {
+      "all": true
+    },
+    "PET_SKIN_BEE_RGBEE": {
+      "all": true
+    },
+    "PET_SKIN_ENDER_DRAGON_UNDEAD": {
+      "all": true
+    },
+    "PET_SKIN_BAL_INFERNO": {
+      "all": true
+    },
+    "PET_SKIN_ENDERMAN_XENON": {
+      "all": true
+    },
+    "PET_SKIN_ENDERMAN_NEON": {
+      "all": true
+    },
+    "PET_SKIN_KUUDRA_LOYALTY": {
+      "all": true
+    },
+    "PET_SKIN_JERRY_HANDSOME": {
+      "all": true
+    },
+    "PET_SKIN_ARMADILLO_ENCHANTED": {
+      "all": true
+    },
+    "PET_SKIN_ARMADILLO_SEAFOAM": {
+      "all": true
+    },
+    "PET_SKIN_TIGER_GOLDEN": {
+      "all": true
+    },
+    "PET_SKIN_AMMONITE_MAGMA": {
+      "all": true
+    },
+    "PET_SKIN_AMMONITE_NATURAL": {
+      "all": true
+    },
+    "PET_SKIN_DOLPHIN_SNUBNOSE": {
+      "all": true
+    },
+    "PET_SKIN_DOLPHIN_SNUBNOSE_GREEN": {
+      "all": true
+    },
+    "PET_SKIN_DOLPHIN_SNUBNOSE_RED": {
+      "all": true
+    },
+    "PET_SKIN_DOLPHIN_SNUBNOSE_PURPLE": {
+      "all": true
+    },
+    "PET_SKIN_BLAZE_FROZEN": {
+      "all": true
+    },
+    "PET_SKIN_OCELOT_SNOW_TIGER": {
+      "all": true
+    },
+    "PET_SKIN_PHOENIX_ICE": {
+      "all": true
+    },
+    "PET_SKIN_BAT_VAMPIRE": {
+      "all": true
+    },
+    "PET_SKIN_PARROT_GOLD_MACAW": {
+      "all": true
+    },
+    "PET_SKIN_TIGER_SABER_TOOTH": {
+      "all": true
+    },
+    "PET_SKIN_SQUID_GLOW": {
+      "all": true
+    },
+    "PET_SKIN_HOUND_BEAGLE": {
+      "all": true
+    },
+    "PET_SKIN_WOLF_DARK": {
+      "all": true
+    },
+    "PET_SKIN_ENDER_DRAGON_PASTEL": {
+      "all": true
+    },
+    "PET_SKIN_ENDERMITE_RADIANT": {
+      "all": true
+    },
+    "PET_SKIN_MONKEY_GORILLA": {
+      "all": true
+    },
+    "PET_SKIN_BLACK_CAT_ONYX": {
+      "all": true
+    },
+    "PET_SKIN_RABBIT_AQUAMARINE": {
+      "all": true
+    },
+    "PET_SKIN_RABBIT_ROSE": {
+      "all": true
+    },
+    "PET_SKIN_CHICKEN_BABY_CHICK": {
+      "all": true
+    },
+    "PET_SKIN_ELEPHANT_MONOCHROME": {
+      "all": true
+    },
+    "PET_SKIN_BLUE_WHALE_ORCA": {
+      "all": true
+    },
+    "PET_SKIN_BLUE_WHALE_COSMIC": {
+      "all": true
+    },
+    "PET_SKIN_ELEPHANT_RED": {
+      "all": true
+    },
+    "PET_SKIN_ELEPHANT_GREEN": {
+      "all": true
+    },
+    "PET_SKIN_ELEPHANT_PURPLE": {
+      "all": true
+    },
+    "PET_SKIN_ENDER_DRAGON_NEON_PURPLE": {
+      "all": true
+    },
+    "PET_SKIN_ENDER_DRAGON_NEON_BLUE": {
+      "all": true
+    },
+    "PET_SKIN_ENDER_DRAGON_NEON_RED": {
+      "all": true
+    },
+    "PET_SKIN_HORSE_ZOMBIE_SKELETON": {
+      "all": true
+    },
+    "PET_SKIN_SILVERFISH_FOSSILIZED": {
+      "all": true
+    },
+    "PET_SKIN_MONKEY_GOLDEN": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_NEON_YELLOW": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_NEON_RED": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_NEON_BLUE": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_NEON_GREEN": {
+      "all": true
+    },
+    "PET_SKIN_JERRY_RED_ELF": {
+      "all": true
+    },
+    "PET_SKIN_JERRY_GREEN_ELF": {
+      "all": true
+    },
+    "PET_SKIN_BABY_YETI_GROWN_UP": {
+      "all": true
+    },
+    "PET_SKIN_ELEPHANT_PINK": {
+      "all": true
+    },
+    "PET_SKIN_ELEPHANT_BLUE": {
+      "all": true
+    },
+    "PET_SKIN_ELEPHANT_ORANGE": {
+      "all": true
+    },
+    "PET_SKIN_SILVERFISH_FORTIFIED": {
+      "all": true
+    },
+    "PET_SKIN_WITHER_SKELETON_DARK": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_PINK": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_BLACK": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_LIGHT_GREEN": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_LIGHT_BLUE": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_WHITE": {
+      "all": true
+    },
+    "PET_SKIN_SHEEP_PURPLE": {
+      "all": true
+    },
+    "PET_SKIN_TIGER_TWILIGHT": {
+      "all": true
+    },
+    "PET_SKIN_GUARDIAN_WATCHER": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_COOL": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_DERPY": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_EMBARRASSED": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_SMILING": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_LAUGHING": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_THINKING": {
+      "all": true
+    },
+    "PET_SKIN_RABBIT_PRETTY": {
+      "all": true
+    },
+    "PET_SKIN_ENDERMAN_SPOOKY": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_NORTH_STAR": {
+      "all": true
+    },
+    "PET_SKIN_RAT_HIDE_AND_SQUEAK": {
+      "all": true
+    },
+    "PET_SKIN_BEE_ZOMBEE": {
+      "all": true
+    },
+    "PET_SKIN_BLACK_CAT_PURRANORMAL": {
+      "all": true
+    },
+    "PET_SKIN_ENDERMAN_VOID_CONQUEROR": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_SWEATING": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_BLINKING": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_SUS": {
+      "all": true
+    },
+    "PET_SKIN_ROCK_SURPRISED": {
+      "all": true
+    },
+    "PET_SKIN_WOLF_HENZO_DOGGO": {
+      "all": true
+    },
+    "THEORETICAL_HOE_CANE_1": {
+      "all": true
+    },
+    "THEORETICAL_HOE_CANE_2": {
+      "all": true
+    },
+    "THEORETICAL_HOE_CANE_3": {
+      "all": true
+    },
+    "THEORETICAL_HOE_WHEAT_1": {
+      "all": true
+    },
+    "THEORETICAL_HOE_WHEAT_2": {
+      "all": true
+    },
+    "THEORETICAL_HOE_WHEAT_3": {
+      "all": true
+    },
+    "THEORETICAL_HOE_POTATO_1": {
+      "all": true
+    },
+    "THEORETICAL_HOE_POTATO_2": {
+      "all": true
+    },
+    "THEORETICAL_HOE_POTATO_3": {
+      "all": true
+    },
+    "THEORETICAL_HOE_WARTS_1": {
+      "all": true
+    },
+    "THEORETICAL_HOE_WARTS_2": {
+      "all": true
+    },
+    "THEORETICAL_HOE_WARTS_3": {
+      "all": true
+    },
+    "THEORETICAL_HOE_CARROT_1": {
+      "all": true
+    },
+    "THEORETICAL_HOE_CARROT_2": {
+      "all": true
+    },
+    "THEORETICAL_HOE_CARROT_3": {
+      "all": true
+    },
+    "PUMPKIN_DICER": {
+      "all": true
+    },
+    "PUMPKIN_DICER_2": {
+      "all": true
+    },
+    "PUMPKIN_DICER_3": {
+      "all": true
+    },
+    "MELON_DICER": {
+      "all": true
+    },
+    "MELON_DICER_2": {
+      "all": true
+    },
+    "MELON_DICER_3": {
+      "all": true
+    },
+    "FUNGI_CUTTER": {
+      "all": true
+    },
+    "CACTUS_KNIFE": {
+      "all": true
+    },
+    "COCO_CHOPPER": {
+      "all": true
+    },
+    "GREAT_SPOOK_STAFF": {
+      "all": true
+    },
+    "JERRY_BARN_SKIN": {
+      "all": true
+    },
+    "GLISTENING_MELON_FLUX": {
+      "all": true
+    },
+    "GOLDEN_APPLE_FLUX": {
+      "all": true
+    },
+    "GLOWING_GRAPE_FLUX": {
+      "all": true
+    },
+    "MENDER_CROWN": {
+      "all": true
+    },
+    "MENDER_FEDORA": {
+      "all": true
+    },
+    "SHADOW_GOGGLES": {
+      "all": true
+    },
+    "WITHER_GOGGLES": {
+      "all": true
+    },
+    "SPIRIT_MASK": {
+      "all": true
+    },
+    "STARRED_SHADOW_ASSASSIN_BOOTS": {
+      "all": true
+    },
+    "SHADOW_ASSASSIN_LEGGINGS": {
+      "all": true
+    },
+    "STARRED_SHADOW_ASSASSIN_CHESTPLATE": {
+      "all": true
+    },
+    "SHADOW_ASSASSIN_HELMET": {
+      "all": true
+    },
+    "TRADING_POST_BARN_SKIN": {
+      "all": true
+    },
+    "AUTUMN_HUT_BARN_SKIN": {
+      "all": true
+    },
+    "TAVERN_BARN_SKIN": {
+      "all": true
+    },
+    "CUBE_BARN_SKIN": {
+      "all": true
+    },
+    "COZY_COTTAGE_BARN_SKIN": {
+      "all": true
+    },
+    "HIVE_BARN_SKIN": {
+      "all": true
+    },
+    "CASTLE_BARN_SKIN": {
+      "all": true
+    },
+    "EPOCH_CAKE_PURPLE": {
+      "all": true
+    },
+    "EPOCH_CAKE_AQUA": {
+      "all": true
+    },
+    "EPOCH_CAKE_WHITE": {
+      "all": true
+    },
+    "EPOCH_CAKE_BLUE": {
+      "all": true
+    },
+    "EPOCH_CAKE_RED": {
+      "all": true
+    },
+    "EPOCH_CAKE_GREEN": {
+      "all": true
+    },
+    "EPOCH_CAKE_PINK": {
+      "all": true
+    },
+    "EPOCH_CAKE_ORANGE": {
+      "all": true
+    },
+    "EPOCH_CAKE_BLACK": {
+      "all": true
+    },
+    "EPOCH_CAKE_CYAN": {
+      "all": true
+    },
+    "EPOCH_CAKE_YELLOW": {
+      "all": true
+    },
+    "EPOCH_CAKE_BROWN": {
+      "all": true
+    },
+    "GOBLIN_OMELETTE_SPICY": {
+      "all": true
+    },
+    "STORM_THE_FISH": {
+      "all": true
+    },
+    "GOLDOR_THE_FISH": {
+      "all": true
+    },
+    "MAXOR_THE_FISH": {
+      "all": true
+    },
+    "BAT_THE_FISH": {
+      "all": true
+    },
+    "CANDY_THE_FISH": {
+      "all": true
+    },
+    "CHILL_THE_FISH": {
+      "all": true
+    },
+    "CLUCK_THE_FISH": {
+      "all": true
+    },
+    "DIAMOND_THE_FISH": {
+      "all": true
+    },
+    "DUST_THE_FISH": {
+      "all": true
+    },
+    "EGG_THE_FISH": {
+      "all": true
+    },
+    "EXPERIMENT_THE_FISH": {
+      "all": true
+    },
+    "FLAKE_THE_FISH": {
+      "all": true
+    },
+    "GABAGOOL_THE_FISH": {
+      "all": true
+    },
+    "GIFT_THE_FISH": {
+      "all": true
+    },
+    "HERRING_THE_FISH": {
+      "all": true
+    },
+    "NOPE_THE_FISH": {
+      "all": true
+    },
+    "OOPS_THE_FISH": {
+      "all": true
+    },
+    "SHRIMP_THE_FISH": {
+      "all": true
+    },
+    "STEW_THE_FISH": {
+      "all": true
+    },
+    "SPOOK_THE_FISH": {
+      "all": true
+    },
+    "GARDEN_SCYTHE": {
+      "all": true
+    },
+    "BASIC_GARDENING_HOE": {
+      "all": true
+    },
+    "BASIC_GARDENING_AXE": {
+      "all": true
+    },
+    "BUILDERS_RULER": {
+      "all": true
+    },
+    "ADVANCED_GARDENING_HOE": {
+      "all": true
+    },
+    "ADVANCED_GARDENING_AXE": {
+      "all": true
+    },
+    "HOE_OF_GREAT_TILLING": {
+      "all": true
+    },
+    "HOE_OF_GREATER_TILLING": {
+      "all": true
+    },
+    "HOE_OF_GREATEST_TILLING": {
+      "all": true
+    },
+    "BLUE_EGG": {
+      "all": true
+    },
+    "GREEN_EGG": {
+      "all": true
+    },
+    "PURPLE_EGG": {
+      "all": true
+    },
+    "GRANDFATHER_CLOCK": {
+      "all": true
+    },
+    "SILVER_FANG": {
+      "all": true
+    },
+    "STONK_PICKAXE": {
+      "all": true
+    },
+    "WATER_HYDRA_HEAD": {
+      "all": true
+    },
+    "HASTE_RING": {
+      "all": true
+    },
+    "ENDERMEN;1": {
+      "all": true
+    },
+    "ENDERMEN;2": {
+      "all": true
+    },
+    "ENDERMEN;3": {
+      "all": true
+    },
+    "ENDERMEN;4": {
+      "all": true
+    },
+    "ENDERMEN;5": {
+      "all": true
+    },
+    "SUPERIOR_DRAGON_HELMET": {
+      "all": true
+    },
+    "SUPERIOR_DRAGON_CHESTPLATE": {
+      "all": true
+    },
+    "SUPERIOR_DRAGON_LEGGINGS": {
+      "all": true
+    },
+    "SUPERIOR_DRAGON_BOOTS": {
+      "all": true
+    },
+    "RUNAANS_BOW": {
+      "all": true
+    },
+    "BAT_PERSON_TALISMAN": {
+      "all": true
+    },
+    "WITHER_SKELETON;1": {
+      "all": true
+    },
+    "WITHER_SKELETON;2": {
+      "all": true
+    },
+    "WITHER_SKELETON;3": {
+      "all": true
+    },
+    "WITHER_SKELETON;4": {
+      "all": true
+    },
+    "WITHER_SKELETON;5": {
+      "all": true
+    },
+    "MOOSHROOM_COW;1": {
+      "all": true
+    },
+    "MOOSHROOM_COW;2": {
+      "all": true
+    },
+    "MOOSHROOM_COW;3": {
+      "all": true
+    },
+    "MOOSHROOM_COW;4": {
+      "all": true
+    },
+    "MOOSHROOM_COW;5": {
+      "all": true
+    },
+    "TARANTULA_BOOTS": {
+      "all": true
+    },
+    "TARANTULA_LEGGINGS": {
+      "all": true
+    },
+    "TARANTULA_CHESTPLATE": {
+      "all": true
+    },
+    "TARANTULA_HELMET": {
+      "all": true
+    },
+    "STRONG_DRAGON_BOOTS": {
+      "all": true
+    },
+    "STRONG_DRAGON_LEGGINGS": {
+      "all": true
+    },
+    "STRONG_DRAGON_CHESTPLATE": {
+      "all": true
+    },
+    "STRONG_DRAGON_HELMET": {
+      "all": true
+    },
+    "ITEM_SPIRIT_BOW": {
+      "all": true
+    }
+  }
+}
